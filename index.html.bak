@@ -4,39 +4,46 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
       crossorigin="anonymous">
     <link type="text/css" rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Lora:ital@1&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital@1&amp;display=swap"
+
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Lora&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Lora&amp;display=swap"
+
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Young+Serif&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Young+Serif&amp;display=swap"
+
       rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&amp;display=swap"
+
       rel="stylesheet">
   </head>
   <body>
     <div class="container my-container">
       <div class="row">
-        <div class="col-sm-12 col-md-6  my-left"> <img src="images/me01.jpg" class="border border-white border border-4 rounded-circle img-fluid"
+        <div class="col-sm-12 col-md-6  my-left"> <img src="images/me01.jpg" class="border border-white border border-4 rounded-circle img-fluid"
+
             alt="myself" style="width: 265px; height: 265px;"> </div>
         <div class="col-sm-12 col-md-6   my-right">
           <h2> PHATTRARAT </h2>
           <h2> LOMKHUNTHOD </h2>
           <div class="font-family: 'Lora', serif;">
-            <h4> Student </h4>
+            <h4> Student 640510579</h4>
             <div class="my-para my-text my-size"> Information and Library
               Science student. <br>
               I am interested with web and information <br>
@@ -49,12 +56,15 @@
       <div class="row">
         <div class="col-sm-12 col-md-6  my-left my-white">
           <h5>CONTACT ME </h5>
-          <div class="my-para my-size"><img src="images/call.png" class="img-fluid"
+          <div class="my-para my-size"><img src="images/call.png" class="img-fluid"
+
               alt="call" style="width: 35px; height: 35px;">098-253-2251</div>
-          <div class="my-para my-size"> <img src="images/email.png" class="img-fluid"
+          <div class="my-para my-size"> <img src="images/email.png" class="img-fluid"
+
               alt="email" style="width: 35px; height: 35px;">&nbsp;phattraratstudy@gmail.com
             </div>
-          <div class="my-para my-size"><img src="images/house.png" class="img-fluid "
+          <div class="my-para my-size"><img src="images/house.png" class="img-fluid "
+
               alt="house" style="width: 35px; height: 35px;">&nbsp;51/232 Soi
             23/2D <br>
             Saothonghin Bangyai <br>
@@ -111,7 +121,7 @@
               <div class="value"> </div>
             </div>
             <br>
-            <div class="my-my-box" style="--i:85%"> <box> English (Second
+            <div class="my-my-box" style="--i:89%"> <box> English (Second
                 Languages) </box>
               <div class="value"> </div>
             </div>
@@ -161,8 +171,10 @@
               Bootstrap </li>
           </d></div>
       </div>
-      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
 crossorigin="anonymous"></script> </div>
   </body>
 </html>
